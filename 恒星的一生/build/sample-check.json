@@ -1,0 +1,25 @@
+{
+  "file": "膨胀联动小样.mp4",
+  "seconds": 31.0,
+  "start_in_master": 142.1,
+  "master_caption_count": 79,
+  "physics_samples": 10000,
+  "frames": 930,
+  "fps": 30,
+  "width": 1280,
+  "height": 720,
+  "video": "h264",
+  "shots": 3,
+  "seam_luma_mean_difference_8bit": {
+    "expand": 0.658,
+    "area": 1.069
+  },
+  "maximum_source_to_encode_mean_RGB_difference_8bit": 0.957667824074074,
+  "expanding_sphere_adjacent_pairs": 0,
+  "expanding_sphere_visibly_changed_pairs": 0,
+  "audio": "aac",
+  "audio_rate": 24000,
+  "decoded_audio_seconds": 31.0,
+  "verified_phrases": 7,
+  "minimum_voice_correlation": 0.9999763964201259
+}

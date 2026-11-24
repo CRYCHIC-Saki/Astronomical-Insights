@@ -1,0 +1,31 @@
+{
+  "file": "定量推理小样.mp4",
+  "seconds": 78.4,
+  "start_in_master": 173.1,
+  "master_caption_count": 79,
+  "physics_samples": 10000,
+  "frames": 2352,
+  "fps": 30,
+  "width": 1280,
+  "height": 720,
+  "video": "h264",
+  "shots": 9,
+  "seam_luma_mean_difference_8bit": {
+    "surface": 0.05,
+    "product": 8.4,
+    "double": 0.041,
+    "four": 0.0,
+    "ratio": 0.0,
+    "flux_calc": 0.171,
+    "area_calc": 0.0,
+    "law": 0.0
+  },
+  "maximum_source_to_encode_mean_RGB_difference_8bit": 1.0397569444444446,
+  "expanding_sphere_adjacent_pairs": 59,
+  "expanding_sphere_visibly_changed_pairs": 59,
+  "audio": "aac",
+  "audio_rate": 24000,
+  "decoded_audio_seconds": 78.4,
+  "verified_phrases": 15,
+  "minimum_voice_correlation": 0.9999698806796753
+}

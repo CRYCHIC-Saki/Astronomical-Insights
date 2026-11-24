@@ -1,0 +1,26 @@
+{
+  "file": "开场提问小样.mp4",
+  "seconds": 27.0,
+  "start_in_master": 0.0,
+  "master_caption_count": 79,
+  "physics_samples": 10000,
+  "frames": 810,
+  "fps": 30,
+  "width": 1280,
+  "height": 720,
+  "video": "h264",
+  "shots": 4,
+  "seam_luma_mean_difference_8bit": {
+    "question": 0.0,
+    "to_map": 0.0,
+    "temp": 0.001
+  },
+  "maximum_source_to_encode_mean_RGB_difference_8bit": 1.0163599537037038,
+  "expanding_sphere_adjacent_pairs": 0,
+  "expanding_sphere_visibly_changed_pairs": 0,
+  "audio": "aac",
+  "audio_rate": 24000,
+  "decoded_audio_seconds": 27.0,
+  "verified_phrases": 5,
+  "minimum_voice_correlation": 0.9999591284595395
+}
